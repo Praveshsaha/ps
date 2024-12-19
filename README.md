@@ -1,0 +1,2 @@
+# ps
+setting up git
